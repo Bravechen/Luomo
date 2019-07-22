@@ -1,0 +1,30 @@
+{
+  "name": "luomo",
+  "version": "0.0.0",
+  "description": "a library for node.js project to handle file path and operated.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bravechen/Luomo.git"
+  },
+  "keywords": [
+    "file",
+    "path"
+  ],
+  "author": "Brave Chan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bravechen/Luomo/issues"
+  },
+  "homepage": "https://github.com/Bravechen/Luomo#readme",
+  "dependencies": {
+    "hexo-fs": "^1.0.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
