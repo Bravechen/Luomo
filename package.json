@@ -1,6 +1,6 @@
 {
   "name": "luomo",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "a library for node.js project to handle file path and operated.",
   "main": "./src/index.js",
   "scripts": {

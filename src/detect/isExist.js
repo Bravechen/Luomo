@@ -23,7 +23,7 @@ function asyncPathExist(path) {
         console.log(`Is path ${path} exist?====>`, isExit);
       }
       if (!isExist) {
-        return reject(false);
+        return resolve(false);
       }
       return resolve(true);
     });
